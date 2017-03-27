@@ -1,2 +1,2 @@
-# segyesu.github.io
-segyesu-cello
+# segyesu
+# segyesu
